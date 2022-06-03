@@ -1,0 +1,22 @@
+/* .title{
+    color: red;
+    background: #000;
+} */
+/* .title2{
+    color: rgb(51, 230, 93);
+    background: #000;
+} */
+.card{
+    color: white;
+    height:300px;
+    width: 250px;
+    background: rgb(40, 37, 37);
+    margin: 15px;
+    border: 5px solid rgb(241, 7, 7);
+    padding :5px;
+}
+
+.card img{
+    height :200px;
+    width: 245px;
+}
